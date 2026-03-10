@@ -6,7 +6,7 @@ An AI-generated robotics simulation demonstrating autonomous warehouse intralogi
 The project shows a warehouse robot transporting a package, navigating to a rack, and placing the box on the shelf.
 The entire video was created using AI image generation and video generation prompts, simulating a real-world warehouse automation workflow.
 
-# 🖼️ Image Prompt — Robot Walking with Box
+# 🖼️ Image 1 Prompt — Robot Walking with Box
 
 # Fig 1 :- 
 
