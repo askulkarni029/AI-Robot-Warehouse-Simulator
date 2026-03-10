@@ -1,4 +1,4 @@
-# 🤖 AI-Robot-Warehouse-Simulator
+# 🤖 AI-Robot Warehouse Simulator
 
 # Project Overview
 
@@ -39,7 +39,7 @@ Robot slowing down and aligning with rack.
 Scene 3 (6–10 sec)
 Robot placing box on shelf.
 
-# 📘 docs/use_case -
+# 📘 docs -
 
 # Real World Use Case
 
@@ -55,19 +55,18 @@ Applications include:
 
 Robotics companies working in this domain include:
 
-Amazon Robotics
-GreyOrange
-Fetch Robotics
-KUKA Robotics
+1. Amazon Robotics
+2. GreyOrange
+3. Fetch Robotics
+4. KUKA Robotics
 
 ## 💡 Skills Demonstrated
 
-Prompt Engineering  
-AI Image Generation  
-AI Video Generation  
-Robotics Workflow Simulation  
-Automation Thinking
+1. Prompt Engineering  
+2. AI Image Generation  
+3. AI Video Generation  
+4. Robotics Workflow Simulation  
+5. Automation Thinking
 
-👨‍💻 Author
-Abhijit Kulkarni
-Robotics & AI Automation Engineer
+# 🧑‍💻 Author -
+Abhijit Kulkarni RPA Developer | UiPath | N8N | Automation Enthusiast
